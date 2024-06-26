@@ -1,0 +1,28 @@
+"""
+-------------------------------------------------------
+testing.txt
+CP213 Documentation Lab Testing
+-------------------------------------------------------
+Author:  Benjamin Schmid	
+ID:  169042890  
+Email: schm2790@mylaurier.ca
+Version: 2023-09-19
+-------------------------------------------------------
+"""
+Enter an integer value: 
+1
+Enter an integer value: 
+2
+Enter an integer value: 
+3
+Enter an integer value: 
+q
+Total: 6
+----------------------------------------
+Lines: 78
+----------------------------------------
+Tokens: 220
+----------------------------------------
+Words: 6
+----------------------------------------
+Done

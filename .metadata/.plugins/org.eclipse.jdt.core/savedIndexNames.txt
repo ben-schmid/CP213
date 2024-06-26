@@ -1,0 +1,18 @@
+INDEX VERSION 1.134+/Users/benschmid/eclipse/ws/CP213/.metadata/.plugins/org.eclipse.jdt.core
+2333516199.index
+449274702.index
+497723223.index
+3917156077.index
+4106814050.index
+416903350.index
+2225338093.index
+1789761473.index
+2211328756.index
+4229009713.index
+989507697.index
+671056073.index
+4087662203.index
+304082973.index
+1865797976.index
+359805956.index
+1651836050.index

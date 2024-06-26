@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SingleNode.java&apos; to &apos;schm2790_a03/src/cp213&apos;&#x0A;- Original project: &apos;A03Given&apos;&#x0A;- Destination element: &apos;schm2790_a03/src/cp213&apos;&#x0A;- Original element: &apos;cp213.SingleNode.java&apos;" description="Copy compilation unit" destination="=schm2790_a03/src&lt;cp213" element1="/src&lt;cp213{SingleNode.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1697666509494" units="1" version="1.0"/>
+</session>
